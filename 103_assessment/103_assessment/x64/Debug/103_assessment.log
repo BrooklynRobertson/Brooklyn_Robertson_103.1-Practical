@@ -1,0 +1,15 @@
+﻿  103_assessment.cpp
+C:\Users\bwrob\OneDrive\Documents\Yoobee\Git\Brooklyn_Robertson_103.1-Practical\103_assessment\103_assessment\task6.h(32,10): error C2512: 'Expenses': no appropriate default constructor available
+C:\Users\bwrob\OneDrive\Documents\Yoobee\Git\Brooklyn_Robertson_103.1-Practical\103_assessment\103_assessment\task6.h(5,8): message : see declaration of 'Expenses'
+C:\Users\bwrob\OneDrive\Documents\Yoobee\Git\Brooklyn_Robertson_103.1-Practical\103_assessment\103_assessment\task6.h(33,10): error C2512: 'Expenses': no appropriate default constructor available
+C:\Users\bwrob\OneDrive\Documents\Yoobee\Git\Brooklyn_Robertson_103.1-Practical\103_assessment\103_assessment\task6.h(5,8): message : see declaration of 'Expenses'
+C:\Users\bwrob\OneDrive\Documents\Yoobee\Git\Brooklyn_Robertson_103.1-Practical\103_assessment\103_assessment\103_assessment.cpp(14,17): error C2660: 'recordExpense': function does not take 0 arguments
+C:\Users\bwrob\OneDrive\Documents\Yoobee\Git\Brooklyn_Robertson_103.1-Practical\103_assessment\103_assessment\task6.h(40,6): message : see declaration of 'recordExpense'
+C:\Users\bwrob\OneDrive\Documents\Yoobee\Git\Brooklyn_Robertson_103.1-Practical\103_assessment\103_assessment\103_assessment.cpp(17,16): error C2660: 'viewExpenses': function does not take 0 arguments
+C:\Users\bwrob\OneDrive\Documents\Yoobee\Git\Brooklyn_Robertson_103.1-Practical\103_assessment\103_assessment\task6.h(39,6): message : see declaration of 'viewExpenses'
+C:\Users\bwrob\OneDrive\Documents\Yoobee\Git\Brooklyn_Robertson_103.1-Practical\103_assessment\103_assessment\103_assessment.cpp(21,14): error C2660: 'viewReport': function does not take 0 arguments
+C:\Users\bwrob\OneDrive\Documents\Yoobee\Git\Brooklyn_Robertson_103.1-Practical\103_assessment\103_assessment\task6.h(38,6): message : see declaration of 'viewReport'
+C:\Users\bwrob\OneDrive\Documents\Yoobee\Git\Brooklyn_Robertson_103.1-Practical\103_assessment\103_assessment\103_assessment.cpp(78,14): error C2660: 'viewReport': function does not take 0 arguments
+C:\Users\bwrob\OneDrive\Documents\Yoobee\Git\Brooklyn_Robertson_103.1-Practical\103_assessment\103_assessment\103_assessment.cpp(50,6): message : see declaration of 'viewReport'
+C:\Users\bwrob\OneDrive\Documents\Yoobee\Git\Brooklyn_Robertson_103.1-Practical\103_assessment\103_assessment\103_assessment.cpp(112,14): error C2660: 'viewReport': function does not take 0 arguments
+C:\Users\bwrob\OneDrive\Documents\Yoobee\Git\Brooklyn_Robertson_103.1-Practical\103_assessment\103_assessment\103_assessment.cpp(50,6): message : see declaration of 'viewReport'
